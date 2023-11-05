@@ -96,6 +96,22 @@ main {
 .top {
   top: 0;
 }
+.wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dwnld--button {
+  width: 110px;
+  height: 40px;
+  font-family: "Karla", sans-serif;
+  border-radius: 5px;
+  background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
 
 @media (max-width: 399px) {
   .form {
