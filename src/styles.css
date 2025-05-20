@@ -116,6 +116,7 @@ main {
 @media (max-width: 410px) {
   .form {
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     gap: 0.5rem;
   }
