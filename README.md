@@ -1,4 +1,4 @@
-# Meme Generator — React App
+# Meme Generator
 
 A simple and interactive meme generator built with React that allows users to create custom memes using random images and personalized text.
 Here's the [live link](https://gulzhub.github.io/meme-generator/)
